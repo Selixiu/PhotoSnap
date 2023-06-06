@@ -182,6 +182,18 @@ ul {
   background-size: cover;
   background-position: center;
 }
+.img2 {
+  background-image: url(./assets/home/desktop/beautiful-stories.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.img3 {
+  background-image: url(./assets/home/desktop/designed-for-everyone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .features-hero-img {
   background-image: url(./assets/features/desktop/hero.jpg);
   background-repeat: no-repeat;
